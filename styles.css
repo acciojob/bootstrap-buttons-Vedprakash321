@@ -1,6 +1,5 @@
 
 /* Your CSS Code here. */
-.custom-btn {
-      background-color: yellow;
-      color: white;
+.my-btn{
+	width:100%;
 }
